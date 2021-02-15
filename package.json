@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/nath-btx/cross-ailumette#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "readline-sync": "^1.4.10"
   }
 }
