@@ -1,0 +1,22 @@
+{
+  "name": "cross-ailumette",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nath-btx/cross-ailumette.git"
+  },
+  "author": "Nathan Bertiaux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nath-btx/cross-ailumette/issues"
+  },
+  "homepage": "https://github.com/nath-btx/cross-ailumette#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
